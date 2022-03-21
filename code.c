@@ -46,7 +46,7 @@ while (1)
     printf ("Enter quantity in term of first unit\n");
     scanf("  %f",& first);
     second = first * inchestometers;
-       printf("%.2f inchs is equal to %.2f meters\n\n\n",first,second:
+       printf("%.2f inchs is equal to %.2f meters\n\n\n",first,second);
     break;
     }
     
